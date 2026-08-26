@@ -41,8 +41,8 @@ node index.js
 - **Runtime**: Node.js
   - **Packages**:
 
-    **inspirational-quotes** — For retrieving quotes.
+  - **inspirational-quotes** — For retrieving quotes.
 
-    **chalk@4.1.2** — For ANSI terminal text styling.
+  - **chalk@4.1.2** — For ANSI terminal text styling.
 
 Built as part of my journey exploring Node.js and CLI tools.

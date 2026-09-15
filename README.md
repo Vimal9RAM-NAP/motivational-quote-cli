@@ -46,3 +46,7 @@ node index.js
   - **chalk@4.1.2** — For ANSI terminal text styling.
 
 Built as part of my journey exploring Node.js and CLI tools.
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.

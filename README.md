@@ -1,6 +1,7 @@
 # 💬 Motivational Quote CLI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A lightweight Node.js command-line tool that displays randomized, beautifully formatted motivational quotes directly in your terminal.
 
 ## 🚀 Features

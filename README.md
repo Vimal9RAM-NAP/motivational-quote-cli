@@ -41,11 +41,11 @@ node index.js
 ## 🧰 Tech Stack & Dependencies
 
 - **Runtime**: Node.js
-  - **Packages**:
+* **Packages**:
 
-  - **inspirational-quotes** — For retrieving quotes.
+  - **`inspirational-quotes`** — For retrieving quotes.
 
-  - **chalk@4.1.2** — For ANSI terminal text styling.
+  - **`chalk@4.1.2`** — For ANSI terminal text styling(CommonJS compatible)
 
 Built as part of my journey exploring Node.js and CLI tools.
 

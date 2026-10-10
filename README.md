@@ -4,7 +4,7 @@
 
 A lightweight Node.js command-line tool that displays randomized, beautifully formatted motivational quotes directly in your terminal.
 
-## 🚀 Features
+##  Features
 
 - **Random Quotes:** Fetches a new inspiring quote every time it runs.
 - **Terminal Styling:** Styled using `chalk` for clear, readable, colored output.

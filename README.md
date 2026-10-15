@@ -1,4 +1,4 @@
-# 💬 Motivational Quote CLI
+#  Motivational Quote CLI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -10,7 +10,7 @@ A lightweight Node.js command-line tool that displays randomized, beautifully fo
 - **Terminal Styling:** Styled using `chalk` for clear, readable, colored output.
 - **Lightweight:** Built with minimal dependencies to ensure fast startup.
 
-## 🛠️ Installation & Usage
+##  Installation & Usage
 
 ### Prerequisites
 
@@ -38,7 +38,7 @@ npm install
 node index.js
 ```
 
-## 🧰 Tech Stack & Dependencies
+##  Tech Stack & Dependencies
 
 - **Runtime**: Node.js
 * **Packages**:
@@ -49,6 +49,6 @@ node index.js
 
 Built as part of my journey exploring Node.js and CLI tools.
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
